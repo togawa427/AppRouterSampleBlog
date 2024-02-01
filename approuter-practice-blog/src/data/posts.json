@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "id":"next.js13-udemy",
+            "title": "Next.js13をUdemyで学ぶ",
+            "content": "shincodeで教材でNextjsApprouterを学んでいる",
+            "createdAt": "2023/12/09"
+        },
+        {
+            "id":"sikoku",
+            "title": "四国へツーリング",
+            "content": "なかなか大変だったけど2週間かけて四国制覇したぜ．今日の天気はいいが一日目はあんまだった．二日目は微妙な天気かなあってかんじだった．三日目は晴れたよめちゃくちゃ．",
+            "createdAt": "2023/12/27"
+        }
+    ],
+    "comments": [{"id":1, "body":"some comment", "postId":1}],
+    "profile": {"name": "typicode"}
+}
