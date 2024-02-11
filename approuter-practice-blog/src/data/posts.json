@@ -1,18 +1,56 @@
 {
-    "posts": [
-        {
-            "id":"next.js13-udemy",
-            "title": "Next.js13をUdemyで学ぶ",
-            "content": "shincodeで教材でNextjsApprouterを学んでいる",
-            "createdAt": "2023/12/09"
-        },
-        {
-            "id":"sikoku",
-            "title": "四国へツーリング",
-            "content": "なかなか大変だったけど2週間かけて四国制覇したぜ．今日の天気はいいが一日目はあんまだった．二日目は微妙な天気かなあってかんじだった．三日目は晴れたよめちゃくちゃ．",
-            "createdAt": "2023/12/27"
-        }
-    ],
-    "comments": [{"id":1, "body":"some comment", "postId":1}],
-    "profile": {"name": "typicode"}
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "shincodeで教材でNextjsApprouterを学んでいる",
+      "createdAt": "2023/12/09"
+    },
+    {
+      "id": "sikoku",
+      "title": "四国へツーリング",
+      "content": "なかなか大変だったけど2週間かけて四国制覇したぜ．今日の天気はいいが一日目はあんまだった．二日目は微妙な天気かなあってかんじだった．三日目は晴れたよめちゃくちゃ．",
+      "createdAt": "2023/12/27"
+    },
+    {
+      "id": "Appディレクトリはデフォルトでサーバサイドレンダリングを行います．",
+      "title": "",
+      "content": "",
+      "createdAt": "2024-02-10T14:48:59.725Z"
+    },
+    {
+      "id": "terralia",
+      "title": "るいさんとのテラリア",
+      "content": "楽しくて4時までやってしまった．ヘッドセットの必要性を感じたため次回までには買う．",
+      "createdAt": "2024-02-10T14:52:29.395Z"
+    },
+    {
+      "id": "atami",
+      "title": "熱海旅行計画",
+      "content": "たづけとの熱海温泉旅行．いろいろ考えないとなあと．",
+      "createdAt": "2024-02-10T14:54:51.698Z"
+    },
+    {
+      "id": "",
+      "title": "",
+      "content": "",
+      "createdAt": "2024-02-10T15:02:13.324Z"
+    },
+    {
+      "id": "",
+      "title": "",
+      "content": "",
+      "createdAt": "2024-02-10T15:02:22.342Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
