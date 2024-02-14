@@ -3,8 +3,6 @@ import { getDetailArticle } from '@/blogAPI'
 import Image from 'next/image'
 import React from 'react'
 
-export const runtime = 'edge';
-
 const Article = async ({params}: {params:{id: string}}) => {
   //console.log(params.id)
   const detailArticle = await getDetailArticle(params.id)
