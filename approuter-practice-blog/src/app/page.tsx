@@ -2,6 +2,8 @@ import Image from "next/image";
 import ArticleList from "./components/ArticleList";
 import { getAllArticles } from "@/blogAPI";
 
+export const runtime = 'edge';
+
 export default async function Home() {
   const articles = await getAllArticles();
   console.log(articles);
